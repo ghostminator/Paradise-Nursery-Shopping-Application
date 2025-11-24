@@ -39,7 +39,8 @@ Calculates and displays the Total Cart Quantity and Grand Total Cost.
 
 Checkout: A layout placeholder for the final checkout process.
 
-Tech Stack
+**Tech Stack**
+
 Framework: React
 
 Styling: CSS / CSS Modules
